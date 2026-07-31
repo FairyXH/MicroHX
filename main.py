@@ -7,8 +7,8 @@ logging.basicConfig(
 )
 users = [
     {
-        "name":"椰子桶",
-        "cookie":"PHPSESSID=rscnjm3bahpc03pfh9qhul3jb6",
+        "name":"xxx",
+        "cookie":"PHPSESSID=xxx",
         "price":"3000"
     },
 ]
